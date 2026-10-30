@@ -11,6 +11,3 @@ I'm an IT professional based in California with an **A.S. in Information Securit
 This site documents my home lab projects: building, breaking and fixing
 enterprise IT environments to sharpen my help desk, systems administration
 and security skills.
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
