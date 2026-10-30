@@ -1,6 +1,6 @@
 ---
 title: "AD Home Lab Part 1: Architecture & Planning"
-date: 2026-10-30 12:00:00 -0700
+date: 2026-10-30 00:00:00 -0700
 categories: [Home Lab, Active Directory]
 tags: [active-directory, hyper-v, windows-server, networking]
 ---
